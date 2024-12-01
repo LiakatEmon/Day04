@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+
+
+
+/* body{
+    background-color: yellow;
+} */
+#pTag{
+    background-color: yellowgreen;
+    padding: 20px;
+    border: 10px solid red;
+   
+
+    /* width */
+    width: 200px;               
+    
+    /* box-sizing: content-box; */
+    /* box-sizing: border-box; */
+
+
+    /* height */
+    height: 200px;
+   overflow: scroll;
+}
